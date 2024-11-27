@@ -25,4 +25,5 @@ Check out the live website here: [Microbiology for Students](https://<maryamingg
 
 Welcome to the Microbiology content hub for students. Click the button below to go to the Questions Page 1:
 
-<a href="https://<your-username>.github.io/<repository-name>/questions1.html" style="display:inline-block; background-color:#0073e6; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; text-align:center;">Go to Questions Page 1</a>
+<a href="https://<maryamingg>.github.io/<studymicro>/questions1.html">Go to Questions Page 1</a>
+
