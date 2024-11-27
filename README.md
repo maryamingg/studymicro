@@ -19,11 +19,6 @@ The website is hosted on GitHub Pages and is accessible to everyone.
 
 Check out the live website here: [Microbiology for Students](https://<maryamingg>.github.io/<studymicro>/)
 
-## Installation (For Local Development)
+[Go to Questions Page 1](https://johnDoe.github.io/microbiology-questions/questions1.html?from=readme)
 
-# Microbiology for Students
-
-Welcome to the Microbiology content hub for students. Click the button below to go to the Questions Page 1:
-
-<a href="https://<maryamingg>.github.io/<studymicro>/questions1.html">Go to Questions Page 1</a>
 
