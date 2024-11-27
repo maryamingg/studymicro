@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microbiology for Students</title>
+    <title>Questions - Page 1</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,31 +34,26 @@
             background: #0073e6;
             color: #fff;
         }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
     </style>
 </head>
 <body>
     <header>
-        <h1>Microbiology for Students</h1>
+        <h1>Microbiology Questions - Page 1</h1>
     </header>
     <section>
-        <h2>Welcome to Microbiology Learning</h2>
-        <p>This website is dedicated to helping students explore microbiology concepts. Here, you'll find:</p>
-        <ul>
-            <li>Educational articles</li>
-            <li>Interactive questions</li>
-            <li>Useful resources for studying</li>
-        </ul>
-        <p>Let’s dive into the amazing world of microorganisms!</p>
+        <h2>Question 1: What is microbiology?</h2>
+        <p>Microbiology is the study of microorganisms, which include bacteria, viruses, fungi, and protozoa.</p>
+
+        <h2>Question 2: What are the main types of microorganisms?</h2>
+        <p>The main types of microorganisms are bacteria, viruses, fungi, and algae.</p>
+
+        <h2>Question 3: What is the role of bacteria in the ecosystem?</h2>
+        <p>Bacteria play crucial roles in nutrient cycling, such as decomposing organic matter and fixing nitrogen.</p>
     </section>
     <footer>
-        <p>&copy; 2024 Microbiology for Students. Created with ❤️ by <a href="https://github.com/maryamingg">studymicro</a>.</p>
+        <p>&copy; 2024 Microbiology for Students.</p>
     </footer>
 </body>
 </html>
+
+    
