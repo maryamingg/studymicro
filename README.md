@@ -1,24 +1,9 @@
-# studymicro
-# Microbiology for Students 🧫
+# Microbiology Questions
 
-Welcome to my microbiology website! This platform is designed to help students learn and practice microbiology concepts through curated content and interactive questions.
+Welcome to the **Microbiology Study Hub**! This site provides various questions to help students review and test their microbiology knowledge.
 
-## Description
+## Questions
 
-This website provides educational content about microbiology, including key concepts, diagrams, and practice questions. It’s a resource for students who want to deepen their understanding of microbiology topics, prepare for exams, or simply explore the fascinating world of microorganisms.
+Click the button below to go to **Questions Page 1**:
 
-The website is hosted on GitHub Pages and is accessible to everyone.
-
-## Features
-
-- Comprehensive microbiology content for students.
-- Interactive questions to test knowledge.
-- Easy navigation for a seamless learning experience.
-
-## Live Website
-
-Check out the live website here: [Microbiology for Students](https://<maryamingg>.github.io/<studymicro>/)
-
-[Go to Questions Page 1](https://johnDoe.github.io/microbiology-questions/questions1.html?from=readme)
-
-
+[Go to Questions Page 1](questions1.html?from=readme)
