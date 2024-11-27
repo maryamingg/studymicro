@@ -1,4 +1,3 @@
-[Go to Questions Page 1](https://<maryamingg>.github.io/<studymicro>/questions1.html?from=readme)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,46 +45,49 @@
         a:hover {
             background-color: #005bb5;
         }
-        button {
-            background-color: #0073e6;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        button:hover {
-            background-color: #005bb5;
+        .highlight {
+            background-color: #ffff99;
         }
     </style>
 </head>
 <body>
     <header>
         <h1>Microbiology Questions - Page 1</h1>
-        <!-- Optional title bar or navigation bar -->
     </header>
 
     <section>
-        <h2>Question 1: What is microbiology?</h2>
+        <h2 class="question" id="question1">Question 1: What is microbiology?</h2>
         <p>Microbiology is the study of microorganisms, including bacteria, viruses, fungi, and protozoa.</p>
 
-        <h2>Question 2: What are the main types of microorganisms?</h2>
+        <h2 class="question" id="question2">Question 2: What are the main types of microorganisms?</h2>
         <p>The main types of microorganisms include bacteria, viruses, fungi, and algae.</p>
 
-        <h2>Question 3: What is the role of bacteria in the ecosystem?</h2>
+        <h2 class="question" id="question3">Question 3: What is the role of bacteria in the ecosystem?</h2>
         <p>Bacteria play crucial roles in nutrient cycling, such as decomposing organic matter and fixing nitrogen.</p>
 
-        <h2>Question 4: What is a pathogen?</h2>
+        <h2 class="question" id="question4">Question 4: What is a pathogen?</h2>
         <p>A pathogen is any microorganism that causes disease in a host organism.</p>
 
-        <!-- You can add more questions here as needed -->
+        <!-- More questions can be added here -->
     </section>
 
-    <!-- Optional: Add a button back to home page -->
     <footer>
         <p>&copy; 2024 Microbiology for Students.</p>
         <p><a href="index.html">Back to Home</a></p> <!-- Link back to home page -->
     </footer>
+
+    <script>
+        // Check if the URL has the 'from' parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const fromReadme = urlParams.get('from');
+
+        // If the user came from the README, highlight the first question
+        if (fromReadme === 'readme') {
+            const firstQuestion = document.getElementById('question1');
+            if (firstQuestion) {
+                firstQuestion.classList.add('highlight');
+            }
+        }
+    </script>
 </body>
 </html>
